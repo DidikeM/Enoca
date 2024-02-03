@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Enoca.DataAccess\Enoca.DataAccess.csproj" />
+    <ProjectReference Include="..\Enoca.Entities\Enoca.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
