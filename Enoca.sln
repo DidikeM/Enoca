@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enoca.WebApi", "Enoca.WebApi\Enoca.WebApi.csproj", "{007134B2-A359-4E38-B9D4-25AF97B9C66E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enoca.WebApi", "Enoca.WebApi\Enoca.WebApi.csproj", "{007134B2-A359-4E38-B9D4-25AF97B9C66E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enoca.Entities", "Enoca.Entities\Enoca.Entities.csproj", "{DC2E4000-11C1-47D6-9582-FDA789CD23AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enoca.Entities", "Enoca.Entities\Enoca.Entities.csproj", "{DC2E4000-11C1-47D6-9582-FDA789CD23AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enoca.DataAccess", "Enoca.DataAccess\Enoca.DataAccess.csproj", "{51A64C51-34B9-4912-9150-4DEA20DEDC2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enoca.DataAccess", "Enoca.DataAccess\Enoca.DataAccess.csproj", "{51A64C51-34B9-4912-9150-4DEA20DEDC2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enoca.Business", "Enoca.Business\Enoca.Business.csproj", "{FEAE732C-BDE6-4CAA-AFC1-E71BF82BC622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enoca.Business", "Enoca.Business\Enoca.Business.csproj", "{FEAE732C-BDE6-4CAA-AFC1-E71BF82BC622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
